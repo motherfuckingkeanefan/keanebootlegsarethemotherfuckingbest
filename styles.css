@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Cochin';
+    src: url('fonts/LeCochinBQ-Regular.woff2') format('woff2'),
+         url('fonts/LeCochinBQ-Regular.woff') format('woff');
+}
+
+body {
+    margin: 20px auto;
+    max-width: 650px;
+    width: 90%;
+    line-height: 1.6;
+    font-family: 'Cochin', serif;
+    font-size: 18px;
+    color: #302e17;
+    background-color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.dark-mode {
+    background-color: #302e17;
+    color: #fff;
+}
+
+h1, h2, h3 {
+    line-height: 1.2;
+}
+
+a {
+    color: #5c5a3d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #837e5b;
+}
+
+.dark-mode a {
+    color: #a9a683;
+}
+
+.dark-mode a:hover {
+    color: #c3be9c;
+}
+
+button {
+    background-color: transparent;
+    color: #302e17;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Cochin', serif;
+    cursor: pointer;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    display: none; /* Hide button by default */
+}
+
+.dark-mode button {
+    color: #fff;
+}
+
+.main {
+    margin-top: 20px;
+}
+
+header h1, header aside {
+    text-align: left;
+}
+
+@media (min-width: 769px) {
+    .desktop-only {
+        display: block; /* Show button on desktop screens */
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+    }
+}
