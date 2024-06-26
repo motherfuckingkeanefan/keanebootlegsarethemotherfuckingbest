@@ -2,7 +2,7 @@
 
 Because studio albums are for clueless posers. 
 
-**Seriously, if you think studio albums are better, you're an idiot.** 
+## Seriously, if you think studio albums are better, you're an idiot.** 
 
 **3 reasons.**
 
