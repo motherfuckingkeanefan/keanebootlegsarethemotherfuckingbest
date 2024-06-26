@@ -1,6 +1,10 @@
 # Keane Bootlegs are the Motherfucking Best
 
-**Because studio albums are for clueless posers. Seriously, if you think studio albums are better, you're an idiot. 3 reasons.**
+Because studio albums are for clueless posers. 
+
+**Seriously, if you think studio albums are better, you're an idiot.** 
+
+**3 reasons.**
 
 That's how many bulletproof points it takes to prove that Keane's live bootlegs wipe the floor with their studio albums. Let's cut the crap and get into it:
 
