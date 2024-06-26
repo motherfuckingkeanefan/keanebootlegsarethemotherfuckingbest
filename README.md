@@ -37,6 +37,4 @@ If you're still convinced studio albums are the shit, maybe it's time to wake th
 
 This page—brimming with undeniable truth—was created by [me](https://twitter.com/pieterhoutekame) with inspiration from the geniuses behind [motherfuckingwebsite.com](http://motherfuckingwebsite.com). Hosted on [GitHub Pages](https://pages.github.com/), it's practically free to keep this badass website alive.
 
-Content on this site is licensed under the [WTFPL](http://www.wtfpl.net/) (Do What the Fuck You Want to Public License), which means:
-
-    0. You just DO WHAT THE FUCK YOU WANT TO.
+Content on this site is licensed under the [WTFPL](http://www.wtfpl.net/) (Do What the Fuck You Want to Public License).
