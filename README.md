@@ -8,9 +8,9 @@ Because studio albums are for clueless posers.
 
 That's how many bulletproof points it takes to prove that Keane's live bootlegs wipe the floor with their studio albums. Let's cut the crap and get into it:
 
-- **Bootlegs capture the raw, unfiltered energy you just can't fake in a studio.**
-- **They're unpredictable—every show is a new fucking experience.**
-- **You get to [hear the band screw up](audio/HamburgSong.mp3), and guess what? It's glorious.**
+- Bootlegs capture the raw, unfiltered energy you just can't fake in a studio.
+- They're unpredictable—every show is a new fucking experience.
+- You get to [hear the band screw up](audio/HamburgSong.mp3), and guess what? It's glorious.
 
 ## Real, Raw Emotion
 
