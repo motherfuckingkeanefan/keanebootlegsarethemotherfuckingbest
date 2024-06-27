@@ -35,8 +35,6 @@ In case it’s not clear yet, live bootlegs capture the essence of Keane’s liv
 
 If you're still convinced studio albums are the shit, maybe it's time to wake the fuck up. But hey, if you wanna argue or need more proof, hit me up on [X](https://twitter.com/pieterhoutekame).
 
----
-
 ### Epilogue
 
 This page—brimming with undeniable truth—was created by [me](https://twitter.com/pieterhoutekame) with inspiration from the geniuses behind [motherfuckingwebsite.com](http://motherfuckingwebsite.com). Hosted on [GitHub Pages](https://pages.github.com/), it's practically free to keep this badass website alive.
