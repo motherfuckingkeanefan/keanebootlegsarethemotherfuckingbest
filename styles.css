@@ -28,19 +28,22 @@ h1, h2, h3 {
 
 a {
     color: #5c5a3d;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
     color: #837e5b;
+    text-decoration: underline;
 }
 
 .dark-mode a {
     color: #a9a683;
+    text-decoration: underline;
 }
 
 .dark-mode a:hover {
     color: #c3be9c;
+    text-decoration: underline;
 }
 
 button {
