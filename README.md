@@ -22,21 +22,20 @@ Ever [listen to Hopes and Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8
 
 ## Beautiful Imperfections
 
-Keane screws up during live shows, and it's fucking fantastic. Those mistakes and spontaneous moments are what make their live bootlegs superior. If you think perfection is a perfectly mixed track, you're delusional.
+Keane screws up during live shows, and it's fucking fantastic. These moments are what make their live bootlegs superior. If you think perfection is a perfectly mixed track, you're delusional and missing the whole point of live music.
+
+## Fucking Satire
+
+Yes, this is fucking satire, you fuck. This isn't about proving bootlegs are objectively better—it's about exposing the hollow perfection of studio albums. Studio albums are meticulously crafted and overly polished to fit into a cookie-cutter industry mold. They lack the raw, unfiltered energy that makes live performances, like Keane's bootlegs, so goddamn thrilling.
 
 ## The Real Fucking Deal
 
-In case it’s not clear yet, live bootlegs capture the essence of Keane’s live performances. That energy can't be polished in a studio. So [stop pretending](audio/StopPretending.mp3) and [embrace the magic](audio/EmbraceTheMagic.mp3). Keane bootlegs are where the real experience lies.
+If it’s not clear yet, live bootlegs capture the essence of Keane’s live performances. That raw energy and emotive grandeur can't be polished in a studio. So [stop pretending](audio/StopPretending.mp3) and [embrace the magic](audio/EmbraceTheMagic.mp3). Keane bootlegs are where the real experience lies. Studio albums are for those who can't handle the truth.
 
-> "Only a fool prefers studio albums over bootlegs."  
-> \- Some Wise Ass, Probably
+---
 
-## Final Fucking Words
-
-If you're still convinced studio albums are the shit, maybe it's time to [wake the fuck up](audio/WakeTheFuckUp.mp3). But hey, if you wanna argue or need more proof, hit me up on [Twitter](https://twitter.com/pieterhoutekame).
-
-### Epilogue
+## Epilogue
 
 This page—brimming with undeniable truth—was created by [me](https://twitter.com/pieterhoutekame) with inspiration from the geniuses behind [motherfuckingwebsite.com](http://motherfuckingwebsite.com). Hosted on [GitHub Pages](https://pages.github.com/), it's practically free to keep this badass website alive.
 
-Content on this site is licensed under the [WTFPL](http://www.wtfpl.net/) (Do What the Fuck You Want to Public License).
+Content on this site is licensed under the [WTFPL (Do What the Fuck You Want to Public License)](LICENSE.txt).
