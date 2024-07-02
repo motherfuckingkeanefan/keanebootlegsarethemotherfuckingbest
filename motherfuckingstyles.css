@@ -20,25 +20,25 @@ h1, h2, h3 {
 }
 
 a {
-    color: #1a73e8; /* A bolder blue color for links in light mode */
+    color: #1a73e8;
     text-decoration: none;
     border-bottom: 2px solid transparent;
     transition: color 0.3s, border-bottom 0.3s;
 }
 
 a:hover {
-    color: #0056b3; /* Darker blue on hover */
-    border-bottom: 2px solid #0056b3; /* Underline effect on hover */
+    color: #0056b3;
+    border-bottom: 2px solid #0056b3;
 }
 
 .dark-mode a {
-    color: #66b2ff; /* A lighter blue color for links in dark mode */
+    color: #66b2ff;
     border-bottom: 2px solid transparent;
 }
 
 .dark-mode a:hover {
-    color: #3399ff; /* Brighter blue on hover */
-    border-bottom: 2px solid #3399ff; /* Underline effect on hover */
+    color: #3399ff;
+    border-bottom: 2px solid #3399ff;
 }
 
 button {
