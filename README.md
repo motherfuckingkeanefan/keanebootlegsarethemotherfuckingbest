@@ -24,10 +24,6 @@ While studio albums repeat like a broken record, every bootleg offers a fresh ta
 
 Keane screws up during live shows, and it's fucking fantastic. These moments are what make their live bootlegs superior. If you think perfection is a perfectly mixed track, you're delusional and missing the whole point of live music.
 
-## Yes, this is fucking satire, you fuck.
-
-This isn't about proving bootlegs are objectively better—it's about exposing the hollow perfection of studio albums. Studio albums are meticulously crafted and overly polished to fit into a cookie-cutter industry mold. They lack the raw, unfiltered energy that makes live performances, like Keane's bootlegs, so goddamn thrilling.
-
 ## The Real Fucking Deal
 
 If it’s not clear yet, live bootlegs capture the essence of Keane’s live performances. That raw energy and emotive grandeur can't be polished in a studio. So [stop pretending](audio/StopPretending.mp3) and [embrace the magic](audio/EmbraceTheMagic.mp3). Keane bootlegs are where the real experience lies. Studio albums are for those who can't handle the truth.
