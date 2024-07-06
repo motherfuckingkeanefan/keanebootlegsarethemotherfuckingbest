@@ -1,37 +1,46 @@
 # Keane Bootlegs are the Motherfucking Best
 
-Because studio albums are for clueless posers.
+Because polished turds are still turds.
 
-## Seriously, if you think studio albums are better, you're a fucking idiot.
+## If you think studio albums are better, you're a fucking idiot.
 
-**3 undeniable truths.**
+Keane bootlegs are the real deal. Here’s why:
 
-That's how many bulletproof points it takes to prove that Keane's live bootlegs wipe the floor with their studio albums. Let's cut the crap and get into it:
+### Raw Authenticity
 
-- Bootlegs capture raw, unfiltered energy you just can't fake in a studio. Studio albums? Polished bullshit.
-- They're unpredictable—every show is a new fucking experience. Studio albums are the same boring shit on repeat.
-- You get to [hear the band screw up](audio/HearTheBandScrewUp.mp3), and guess what? It's glorious. Flawless perfection is for robots.
+Bootlegs capture the unvarnished truth. Studio albums? Overprocessed soundbites for the masses.
 
-## Real, Raw Emotion
+### Unique Every Time
 
-Studio albums are overproduced crap. Keane's live performances, captured in bootlegs, drip with authenticity. That raw emotion? That's what music is all about, not the sanitized garbage you're spoon-fed by the industry.
+Every bootleg is a new adventure. Studio albums? Repetitive drudgery for those with no imagination.
 
-## Unpredictable Perfection
+### Flaws and All
 
-While studio albums repeat like a broken record, every bootleg offers a fresh take. Each one is a unique, unrepeatable experience. Can your precious studio album do that? Didn't think so.
+Bootlegs showcase glorious human imperfection. Studio albums? Sterilized to the point of boredom.
 
-## Beautiful Imperfections
+## The Real Keane
 
-Keane screws up during live shows, and it's fucking fantastic. These moments are what make their live bootlegs superior. If you think perfection is a perfectly mixed track, you're delusional and missing the whole point of live music.
+Studio albums are the sanitized version of Keane, scrubbed clean for the mainstream. Bootlegs, on the other hand, are raw, unfiltered, and bursting with the emotion that gets lost in the studio. The real Keane is messy, passionate, and alive in every bootleg.
 
-## The Real Fucking Deal
+## Every Show a New Adventure
 
-If it’s not clear yet, live bootlegs capture the essence of Keane’s live performances. That raw energy and emotive grandeur can't be polished in a studio. So [stop pretending](audio/StopPretending.mp3) and [embrace the magic](audio/EmbraceTheMagic.mp3). Keane bootlegs are where the real experience lies. Studio albums are for those who can't handle the truth.
+Listening to studio albums is like watching the same movie over and over. Bootlegs are live, unpredictable, and full of surprises. No two shows are alike, and that’s what makes them thrilling. If you can’t handle that, maybe you should stick to your cookie-cutter playlists.
+
+## Celebrating the Beautiful Imperfections
+
+Keane’s live performances aren’t perfect, and that’s the beauty of it. They screw up, they improvise, they interact with the audience. These imperfections are what make bootlegs superior. If you want perfection, go listen to your auto-tuned pop stars.
+
+## The Unfiltered Experience
+
+Bootlegs capture the essence of Keane’s live shows. The energy, the emotion, the spontaneity – all of it is there, unfiltered and raw. Studio albums can’t replicate that. They’re like a photocopy of a masterpiece: technically accurate but devoid of soul.
+
+> "Only a fool prefers the polished to the pure."  
+> – Some Enlightened Being
 
 ---
 
 ## Epilogue
 
-This page—brimming with undeniable truth—was created by [me](https://twitter.com/pieterhoutekame) with inspiration from the geniuses behind [motherfuckingwebsite.com](http://motherfuckingwebsite.com). Hosted on [GitHub Pages](https://pages.github.com/), it's practically free to keep this badass website alive.
+This page—dripping with unvarnished truth—was created by [me](https://twitter.com/pieterhoutekame) with inspiration from the geniuses behind [motherfuckingwebsite.com](http://motherfuckingwebsite.com). Hosted on [GitHub Pages](https://pages.github.com/), it's practically free to keep this badass website alive.
 
 Content on this site is licensed under the [WTFPL (Do What the Fuck You Want to Public License)](LICENSE.txt).
